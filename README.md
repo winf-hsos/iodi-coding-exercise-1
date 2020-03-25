@@ -1,2 +1,3 @@
-# iodi-coding-exercise-1
-A template for coding exercise 1 within the module "Impacts of Digitalization".
+# Template for Exercise 1
+
+This is a template for the exercise 1 from the module "Impacts of Digitalization" at the University of Applied Sciences in Osnabrueck.
